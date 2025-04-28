@@ -110,8 +110,8 @@ if torch.cuda.is_available():
 ## 📋 Project Structure
 
 ```
-├── Assignment-2.ipynb        # Jupyter Notebook for training and evaluation
-├── report.pdf                # Detailed project report
+├── Brain_tumor_Code.ipynb        # Jupyter Notebook for training and evaluation
+├── Brain_tumor_Project_report.pdf                # Detailed project report
 ├── README.md                 # Project documentation (this file)
 └── environment.yml           # (Optional) Conda environment file for quick setup
 ```
