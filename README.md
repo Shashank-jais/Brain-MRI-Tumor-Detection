@@ -147,5 +147,6 @@ You can reuse or extend it with proper attribution.
 - Train on **larger datasets** for better generalization.
 - Deploy the model for **real-time clinical use**.
 - Extend the pipeline to **tumor growth prediction**.
+- Add adaptive **pretrained checkpoint learning** for multi modal detections
 
 ---
