@@ -130,6 +130,7 @@ if torch.cuda.is_available():
 ## 🙌 Contributors
 
 - **Shashank Jaiswal** – [SAP ID: 500109929]
+- **Naman Jadiya** – [SAP ID: 500110793]
 
 ---
 
